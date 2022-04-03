@@ -1,0 +1,22 @@
+/* --------------------------------------------------------
+Style Sheet for the Name.js component
+
+
+
+CONTENTS:
+- Name of the product styling, MyMiniFactory (beta)
+----------------------------------------------------------*/
+
+.name {
+  padding: 30px;
+  font-size: 40px;
+  font-weight: 600; }
+
+.beta{
+  margin-left: 5px;
+  text-transform: lowercase;
+  font-size: 12px;
+}
+.my{
+  color: purple
+}

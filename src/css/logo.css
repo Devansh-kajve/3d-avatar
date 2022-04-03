@@ -1,0 +1,23 @@
+/* --------------------------------------------------------
+Style Sheet for the Logo.js component
+
+*/
+
+.logo{
+    top: 100px;
+    left: 220px;
+    cursor: pointer;
+    z-index: 150;
+}
+
+.logo a {
+    color: black;
+}
+
+.logo span{
+    top: -15px;
+    font-size: 11px;
+}
+.logo img {
+    width: 120px;
+}
